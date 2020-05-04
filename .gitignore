@@ -27,8 +27,8 @@ secrets.properties
 # For steps to creating an application, view the Readme.md
 #
 
-CONSUMER_KEY="AiS38opgiWoEi6FaOEvUCjJBn"
-CONSUMER_SECRET="DvKGljlRM0296Pd4a3hSj9un4ltV5ESNKyywEEuggaOkxo8wIO"
+CONSUMER_KEY=""
+CONSUMER_SECRET=""
 
 
 #
